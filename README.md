@@ -6,8 +6,8 @@ This project analyses the spatial distribution of registered urban trees across 
 
 The analysis combines two complementary approaches:
 
-1. **Urban Tree Density** — analysis of the relative distribution of registered trees across Vienna's administrative districts.
-2. **Urban Tree Deficit Zones** — identification of areas with limited tree coverage based on a defined spatial tree-influence model.
+1. **Urban Tree Density** - analysis of the relative distribution of registered trees across Vienna's administrative districts.
+2. **Urban Tree Deficit Zones** - identification of areas with limited tree coverage based on a defined spatial tree-influence model.
 
 The project demonstrates the application of GIS and spatial database technologies to the analysis of urban green infrastructure.
 
@@ -44,9 +44,9 @@ Areas outside the resulting coverage were identified using a geometric differenc
 
 The main spatial operations included:
 
-* `ST_Buffer` — creation of tree influence zones
-* `ST_Union` — merging of overlapping spatial geometries
-* `ST_Difference` — identification of areas outside the analysed tree coverage
+* `ST_Buffer` - creation of tree influence zones
+* `ST_Union` - merging of overlapping spatial geometries
+* `ST_Difference` - identification of areas outside the analysed tree coverage
 
 The resulting areas represent **potential tree-deficit zones according to the adopted spatial model**.
 
@@ -62,13 +62,13 @@ Together, the analyses demonstrate the importance of combining **quantitative de
 
 ## Maps
 
-### Map 1 — Urban Tree Density
+### Map 1 - Urban Tree Density
 
 ![Vienna Urban Tree Density](Vienna_Urban_Tree_Density.png)
 
 The map presents the relative density of registered trees across Vienna's 23 districts. Absolute tree counts are also provided to support interpretation of the density values.
 
-### Map 2 — Urban Tree Deficit Zones
+### Map 2 - Urban Tree Deficit Zones
 
 ![Vienna Urban Tree Deficit Zones](Vienna_Urban_Tree_Deficit_Zones.png)
 
@@ -92,7 +92,7 @@ The map presents potential tree-deficit areas identified through buffer, union a
 
 ## Data Sources
 
-* Stadt Wien Open Data — public.trees
+* Stadt Wien Open Data - public.trees
 * OpenStreetMap
 
 ## Author
