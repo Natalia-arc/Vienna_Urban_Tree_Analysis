@@ -79,7 +79,7 @@ The map presents potential tree-deficit areas identified through buffer, union a
 * QGIS
 * PostgreSQL
 * PostGIS
-* pgAdmin
+* pg4Admin
 
 ## Spatial Analysis Techniques
 
