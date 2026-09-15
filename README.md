@@ -17,7 +17,7 @@ The study area covers all 23 administrative districts of Vienna, Austria.
 
 ## Data
 
-* **Tree data:** Stadt Wien Open Data — public.trees
+* **Tree data:** Stadt Wien Open Data - public.trees
 * **Additional spatial data:** OpenStreetMap
 * **Administrative units:** Vienna's 23 districts
 * **Study area:** Vienna, Austria
